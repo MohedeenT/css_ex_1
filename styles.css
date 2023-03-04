@@ -1,0 +1,20 @@
+body {
+  color: black;
+  background-color: lightgray;
+}
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 28px;
+}
+.circle {
+  list-style-type: circle;
+}
+.square {
+  list-style-type: square;
+}
